@@ -111,7 +111,7 @@ const OrderPanel = ({
       </div>
       
       <div className="mt-4 pt-2 border-t border-border/50 text-xs text-muted-foreground">
-        Note: For demo purposes only. Connect to Shopify API for real data.
+        Note: For demo purposes only. Connect to FootballMatch API for real data.
       </div>
     </div>
   );

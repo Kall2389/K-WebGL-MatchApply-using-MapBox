@@ -74,7 +74,7 @@ const Index = () => {
     <div className="relative min-h-screen w-full bg-background overflow-hidden">
       <header className="absolute top-0 left-0 right-0 z-10 p-4 md:p-6 flex justify-between items-center">
         <div className="text-xl md:text-2xl font-bold text-foreground">
-          Shopify Order Globe
+          FootballMatch Order Globe
         </div>
         <div className="text-sm text-muted-foreground">
           Real-time order visualization
